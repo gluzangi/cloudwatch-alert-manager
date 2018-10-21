@@ -1,0 +1,4 @@
+venv/*
+static/css/bootstrap/*
+static/css/semantic-ui/*
+static/css/semantic-ui-forest.com/*

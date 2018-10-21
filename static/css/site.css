@@ -1,0 +1,35 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+/* customized elements */
+.google-fonts-logo {
+  font-family: 'Teko', sans-serif;
+  font-size: 42px;
+}
+
+.google-fonts-body {
+  font-family: 'Special Elite', cursive;
+}
+
+.btn.outline {
+    background: none;
+    padding: 12px 22px;
+}
+
+.btn-primary.outline {
+    border: 2px solid #44d800;
+    color: #0099cc;
+}
+
+.btn-primary.outline:hover, .btn-primary.outline:focus, .btn-primary.outline:active, .btn-primary.outline.active, .open > .dropdown-toggle.btn-primary {
+    color: #33a6cc;
+    border-color: #33a6cc;
+}
+.btn-primary.outline:active, .btn-primary.outline.active {
+    border-color: #007299;
+    color: #44d800;
+    box-shadow: none;
+}
